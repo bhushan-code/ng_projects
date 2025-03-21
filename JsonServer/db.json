@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": "2433",
+      "name": "Le Meridian",
+      "address": "Pune Mumbai highway",
+      "email": "meridian@gmail.com",
+      "services": "India & Italian",
+      "mobile": 9823982398
+    },
+    {
+      "id": "2502",
+      "name": "Hotel Taj",
+      "address": "Marin Drive Mumbai",
+      "email": "taj@gmail.com",
+      "services": "India & Chinese",
+      "mobile": 7020717020
+    },
+    {
+      "id": "2501",
+      "name": "Hotel Radiance",
+      "address": "Pune Nagar highway",
+      "email": "irishelpdesk@gmail.com",
+      "services": "Chinese & Continental",
+      "mobile": 9823982398
+    },
+    {
+      "id": "2501",
+      "name": "Hotel Radiance",
+      "address": "Pune Nagar highway",
+      "email": "irishelpdesk@gmail.com",
+      "services": "Chinese & Continental",
+      "mobile": 9823982398
+    }
+  ],
+  "signup": [
+    {
+      "name": "Taj",
+      "email": "tajManagement@gmail.com",
+      "mobile": 9977454559,
+      "password": "password@123",
+      "id": "1"
+    },
+    {
+      "name": "Admin",
+      "email": "bhushan@gmail.com",
+      "mobile": 7020717020,
+      "password": "Admin@123",
+      "id": "2"
+    },
+    {
+      "id": "f584",
+      "name": "bhushan",
+      "email": "nagpurebn@gmail.com",
+      "mobile": 7040499405,
+      "password": "bhushan@123"
+    }
+  ],
+  "Contact": [
+    {
+      "name": "bhushan nagpure",
+      "mobile": "7089898989",
+      "id": "532d"
+    },
+    {
+      "name": "om pund",
+      "mobile": "5667784567",
+      "id": "419b"
+    },
+    {
+      "name": "rushi gujar",
+      "mobile": "5676789078",
+      "id": "489d"
+    }
+  ]
+}

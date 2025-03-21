@@ -1,0 +1,12 @@
+<h1>Demonstration of ngSwitch Structural directive</h1>
+
+<div [ngSwitch] = "BatchName">
+
+  <div *ngSwitchCase = "'PPA'"> You Select Pre-Placement Activity batch </div>
+  <div *ngSwitchCase = "'LB'"> You Select Logic building batch </div>
+  <div *ngSwitchCase = "'Angular'"> You Select Angular web development batch </div>
+  <div *ngSwitchCase = "'python'"> You Select Python machine learning batch </div>
+
+  <div *ngSwitchDefault> There is no such batch </div>
+
+</div>
